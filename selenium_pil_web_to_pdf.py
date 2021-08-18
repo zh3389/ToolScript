@@ -8,6 +8,11 @@ from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager  # 下载对应chrome驱动
 
 """
+脚本说明:
+给网页截图, 然后裁剪自己需要的部分, 并将所有截图组合成一个pdf保存到本地.
+"""
+
+"""
 # 环境安装
 pip install tqdm
 pip install pillow
