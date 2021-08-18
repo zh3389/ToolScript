@@ -9,13 +9,13 @@ pip install requests
 def questionAnwser(context, question):
     post_data = {"context": context,
                  "question": question}
-    resp = requests.post('http://1.116.81.93:60000/question_answerer', json=post_data)
+    resp = requests.post('http://localhost:60000/question_answerer', json=post_data)
     result = resp.json()
     return result
 
 
 def ner(context):
-    resp = requests.post('http://1.116.81.93:60000/NER', json=context)
+    resp = requests.post('http://localhost:60000/NER', json=context)
     result = resp.json()
     return result
 
