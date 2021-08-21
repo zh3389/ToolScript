@@ -1,3 +1,4 @@
+# linux创建虚拟内存
 dd if=/dev/zero of=$PWD/swap bs=10240 count=1024000
 sudo mkswap swap
 sudo swapon swap
