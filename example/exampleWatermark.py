@@ -4,6 +4,7 @@ import cv2
 """
 # 环境搭建
 pip install blind-watermark
+给图像加盲水印的脚本
 """
 
 

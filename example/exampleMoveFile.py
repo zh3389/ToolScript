@@ -3,6 +3,8 @@ import shutil
 from tqdm import tqdm
 
 """
+环境搭建
+pip install tqdm
 移动指定文件夹下的所有下一级下下级下下下...级文件 到指定指定的路径下.
 """
 

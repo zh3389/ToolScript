@@ -2,6 +2,12 @@ import uuid
 import requests
 from lxml import etree
 
+"""
+环境搭建
+pip install requests
+一个简单的爬虫下载网页图像的示例脚本
+"""
+
 
 def gethtml(url):
     """获取html文件"""
