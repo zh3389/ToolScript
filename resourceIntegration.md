@@ -4,6 +4,8 @@
 
 用于软件和 Web 开发的免费 API 集合  [项目链接](https://github.com/public-api-lists/public-api-lists)  3.3k
 
+免费的API集合  [项目链接](https://github.com/public-apis/public-apis)  156k
+
 不断更新的带代码的论文  [项目链接](https://github.com/zziz/pwc/)  15.2k
 
 深度学习框架综合统计  [项目链接](https://github.com/hunkim/DeepLearningStars)  300+
