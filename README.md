@@ -19,6 +19,7 @@
 | [Backgrounds](https://macwk.com/)                            | Mac动态壁纸              |
 | [Tunnelblick](https://tunnelblick.net/)                      | MacVPN软件               |
 | [IINA](https://www.iina.io/)                                 | Mac视频播放软件          |
+|[Clipy](https://clipy-app.com/)                               |Mac开源粘贴板             |
 
 #### 命令行软件名称
 
