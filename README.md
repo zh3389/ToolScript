@@ -36,7 +36,7 @@
 | [conda](https://www.anaconda.com/products/individual)      | 开发环境管理工具    | `brew install anaconda` or `brew install miniconda`          |
 | [proxychains-ng](https://github.com/rofl0r/proxychains-ng) | 命令行翻墙软件      | `brew search proxychains-ng`                                 |
 | [git](https://github.com/git/git)                          | 软件版本管理工具    | `brew install git`                                           |
-||||
+|[exa](https://github.com/ogham/exa)|ls的现代替代品|`brew install exa`|
 
 ohmyzsh插件 autojump zsh-autosuggestion zsh-syntax-highlighting
 
@@ -72,4 +72,5 @@ ohmyzsh插件 autojump zsh-autosuggestion zsh-syntax-highlighting
 | Json Parser    | Json文件解析插件      |
 | Key Promoter X | 操作快捷键提醒        |
 | Translation    | 代码翻译插件          |
+|cheat.sh code snippets|代码查询 代码作弊器|
 
