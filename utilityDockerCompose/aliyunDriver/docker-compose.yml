@@ -1,0 +1,16 @@
+version: "3.0"
+services:
+  webdav-aliyundriver:
+    image: zx5253/webdav-aliyundriver
+    container_name: aliyundriver
+    environment:
+      - TZ=Asia/Shanghai
+      - ALIYUNDRIVE_REFRESH_TOKEN=yourRefreshToken
+      - ALIYUNDRIVE_AUTH_USER-NAME=yourUserName
+      - ALIYUNDRIVE_AUTH_PASSWORD=yourPassWord
+      - JAVA_OPTS=-Xmx1g
+    volumes:
+      - $PWD/aliyun-driver/:/etc/aliyun-driver/
+    ports:
+      - 6666:8080
+    restart: always
