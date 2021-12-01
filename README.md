@@ -37,6 +37,7 @@
 | [proxychains-ng](https://github.com/rofl0r/proxychains-ng) | 命令行翻墙软件      | `brew search proxychains-ng`                                 |
 | [git](https://github.com/git/git)                          | 软件版本管理工具    | `brew install git`                                           |
 |[exa](https://github.com/ogham/exa)|ls的现代替代品|`brew install exa`|
+|[Label Studio](https://github.com/heartexlabs/label-studio)|一种标准化输出格式的多类型数据标注和标注工具|`pip install label-studio` docker|
 
 ohmyzsh插件 autojump zsh-autosuggestion zsh-syntax-highlighting
 
