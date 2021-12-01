@@ -20,6 +20,7 @@
 | [Tunnelblick](https://tunnelblick.net/)                      | MacVPN软件               |
 | [IINA](https://www.iina.io/)                                 | Mac视频播放软件          |
 |[Clipy](https://clipy-app.com/)                               |Mac开源粘贴板             |
+|[Fig](https://github.com/withfig/autocomplete)|为您的终端添加了自动完成功能|
 
 #### 命令行软件名称
 
@@ -37,7 +38,7 @@
 | [proxychains-ng](https://github.com/rofl0r/proxychains-ng) | 命令行翻墙软件      | `brew search proxychains-ng`                                 |
 | [git](https://github.com/git/git)                          | 软件版本管理工具    | `brew install git`                                           |
 |[exa](https://github.com/ogham/exa)|ls的现代替代品|`brew install exa`|
-|[Label Studio](https://github.com/heartexlabs/label-studio)|一种标准化输出格式的多类型数据标注和标注工具|`pip install label-studio` docker|
+|[Label Studio](https://github.com/heartexlabs/label-studio)|一种标准化输出格式的多类型数据标注和标注工具|`pip install label-studio`|
 
 ohmyzsh插件 autojump zsh-autosuggestion zsh-syntax-highlighting
 
